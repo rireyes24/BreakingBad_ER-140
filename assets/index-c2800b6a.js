@@ -72,7 +72,7 @@ Error generating stack: `+o.message+`
     &:focus-visible{
         border: 1px solid gray;
     }
-`;function Mm(){const{search:e,refCharacter:t,searchCharacter:n}=Ae.useContext(lu);return ln(zd,{children:[U(jm,{placeholder:"Search...",value:e,ref:t,onChange:n}),console.log(e)]})}const Om="/assets/logo-d8418a66.svg",Dm=ve.section`
+`;function Mm(){const{search:e,refCharacter:t,searchCharacter:n}=Ae.useContext(lu);return ln(zd,{children:[U(jm,{placeholder:"Search...",value:e,ref:t,onChange:n}),console.log(e)]})}const Om="/BreakingBad_ER-140/assets/logo-d8418a66.svg",Dm=ve.section`
     width: 78%;    
     height: 14vh;
     grid-column: 1 / 3;
